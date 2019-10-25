@@ -1,22 +1,22 @@
 {
-  "name": "csh-dark-material-bootstrap",
-  "description": "A dark material design Bootstrap theme for Computer Science House.",
+  "name": "csh-classic-material-bootstrap",
+  "description": "A classic material design Bootstrap theme for Computer Science House.",
   "version": "4.3.1",
   "author": "Computer Science House",
   "homepage": "https://csh.rit.edu",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ComputerScienceHouse/csh-dark-material-bootstrap.git"
+    "url": "https://github.com/ComputerScienceHouse/csh-classic-material-bootstrap.git"
   },
   "bugs": {
-    "url": "https://github.com/ComputerScienceHouse/csh-dark-material-bootstrap/issues"
+    "url": "https://github.com/ComputerScienceHouse/csh-classic-material-bootstrap/issues"
   },
   "engines": {
     "node": ">=6"
   },
-  "style": "dist/csh-dark-material-bootstrap.css",
-  "sass": "src/csh-dark-material-bootstrap.scss",
+  "style": "dist/csh-classic-material-bootstrap.css",
+  "sass": "src/csh-classic-material-bootstrap.scss",
   "scripts": {
     "build": "node tools/build.js",
     "start": "node tools/build.js --watch",
